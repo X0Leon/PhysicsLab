@@ -1,11 +1,11 @@
-# QuantLab
-The architecture of data process and visualization for low temperature quantum transport experiment.
+# PhysicsLab
+The architecture of data process and visualization for low temperature quantum transport (physics) experiments.
 
 Simple toolboxs for speeding up the workflow of the two-terminal, Hall adn Nonlocal mearsuments via cryogenic instruments.
 
 Package Tree
 
-    QuantLab/
+    PhysicsLab/
         |--__init__.py
         |--process    (I/O, data cleaning, simple calculation)
         |--fitting    (fitting functions, sucn as SdH oscillations)
